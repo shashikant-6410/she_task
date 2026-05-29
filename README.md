@@ -1,6 +1,6 @@
-# 🌟 SHE Foundation - Contact & Support Platform
+# 🌟 SHE Foundation - Frontend Platform
 
-A modern, highly responsive, and premium web form designed for the **SHE Foundation** to streamline communication, partnerships, and support requests. Built with React and Vite, featuring smooth animations, robust client-side validation, and instant feedback loops.
+A modern, highly responsive, and premium web application designed for the **SHE Foundation** to streamline communication, partnerships, and support requests. Built with React and Vite, featuring smooth animations, robust client-side validation, and instant feedback loops.
 
 ---
 
@@ -36,21 +36,18 @@ The project is successfully deployed on **Vercel**! You can access the live appl
 ## 📦 Directory Structure
 
 ```text
-she_foundation_test/
-├── backend/                  # Future database and server setup
-└── frontend/                 # Main frontend repository
-    └── react_app/            # React + Vite application
-        ├── public/           # Static assets
-        ├── src/
-        │   ├── components/
-        │   │   └── form.jsx  # Interactive Form Component
-        │   ├── App.jsx       # Root App Component
-        │   ├── App.css       # Layout styles
-        │   ├── index.css     # Global styles & design system tokens
-        │   └── main.jsx      # Vite entry point
-        ├── index.html        # Main HTML skeleton
-        ├── package.json      # Dependencies and scripts
-        └── vite.config.js    # Vite configuration
+react_app/            # React + Vite application
+├── public/           # Static assets
+├── src/
+│   ├── components/
+│   │   └── form.jsx  # Interactive Form Component
+│   ├── App.jsx       # Root App Component
+│   ├── App.css       # Layout styles
+│   ├── index.css     # Global styles & design system tokens
+│   └── main.jsx      # Vite entry point
+├── index.html        # Main HTML skeleton
+├── package.json      # Dependencies and scripts
+└── vite.config.js    # Vite configuration
 ```
 
 ---
@@ -66,7 +63,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 1. **Navigate to the React App directory:**
    ```bash
-   cd frontend/react_app
+   cd react_app
    ```
 
 2. **Install all dependencies:**
