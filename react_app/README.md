@@ -4,14 +4,13 @@ A modern, highly responsive, and premium web form designed for the **SHE Foundat
 
 ---
 
-## 🚀 Live Deployment & Vercel Dashboard
+## 🚀 Live Deployment 
 
 The project is successfully deployed on **Vercel**! You can access the live application, track the build status, and view deployment analytics below:
 
 | Feature | Link / Badge |
 | :--- | :--- |
 | **🌐 Live Application** | [![Website](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://she-task-w7t3.vercel.app/) |
-
 
 ---
 
