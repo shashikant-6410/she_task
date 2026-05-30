@@ -11,7 +11,6 @@ The project is successfully deployed on **Vercel**! You can access the live appl
 | Feature | Link / Badge |
 | :--- | :--- |
 | **🌐 Live Application** | [![Website](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://she-task-w7t3.vercel.app/) |
-| **📊 Vercel Dashboard** | [![Vercel Dashboard](https://img.shields.io/badge/Vercel_Dashboard-Deployment-0070f3?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/yadavsky6410-2406s-projects/she-task-w7t3/BAGWEqpt7jjAGJ2W2iako4DRxSBi) |
 
 ---
 
